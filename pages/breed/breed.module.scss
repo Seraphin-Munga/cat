@@ -28,3 +28,21 @@
   background: #000;
   color: #fff;
 }
+
+.favourite {
+  background: red;
+  color: #fff;
+  border-radius: 15px;
+  padding: 6px;
+  width: 121px;
+}
+
+.favourite:focus {
+  background: red;
+  color: #fff;
+}
+
+.favourite:hover {
+  background: red;
+  color: #fff;
+}
